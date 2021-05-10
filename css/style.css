@@ -1,0 +1,104 @@
+body {
+    background-color: whitesmoke;
+}
+
+button {
+
+}
+
+h1 {
+    font-size: 6rem;
+    color:azure;
+    margin-block: 0.2em;
+
+}
+
+h2 {
+    font-size: 5rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+h4 {
+    font-size: 1.2rem;
+    margin-block: 0.5em;
+}
+
+h5 {
+    font-size: 2rem;
+}
+
+h6 {
+    font-size: 0.6rem;
+}
+
+.container {
+
+}
+
+.article {
+
+}
+
+.article_img {
+    max-width: 80%;
+}
+
+.feat_img {
+    width: 250px;
+}
+
+.feature {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 20%;
+}
+
+#header {
+
+}
+
+#hero {
+    height: 30%;
+    background-image: url(/img/Hero\ image.jpg);
+    background-size: cover;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+
+}
+
+#features_div {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    }
+
+#logo_header {
+    width: 100px;    
+}
+
+#blog {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#features {
+
+}
+
+#contact {
+
+}
+
+#footer {
+
+}
